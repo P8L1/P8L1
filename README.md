@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm skoolpc</h1>
+<h1 align="center">Hey 👋, I'm Pieter-Louis Schoeman</h1>
 <p align="center">
   🤖 Machine Learning | 📱 Flutter & Kotlin | 🌐 Django Backend<br>
   Turning ideas into full-stack mobile and web solutions.<br>
