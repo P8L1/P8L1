@@ -32,56 +32,67 @@
 📩 Want to connect or collaborate?  
 👉 [Reach me here](https://x.com/PL198734181) or message me on [Instagram](https://instagram.com/plschoeman/)
 
----
+
 
 <div align="center">
 
-  <!-- ── Row 1: Stats + Top Languages ── -->
-<hr/>
+  <!-- ── Row 1: Two equal-width cards ── -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/P8L1">
+          <img
+            width="420"
+            src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false&border_radius=12"
+            alt="P8L1 • GitHub Profile Stats"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/P8L1">
+          <img
+            width="420"
+            src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical&hide_border=false&border_radius=12&langs_count=10&card_width=420"
+            alt="P8L1 • Top Languages"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<!-- Row 1: Stats + Top Languages -->
-<p align="center">
-  <a href="https://github.com/P8L1">
-    <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false"
-         alt="P8L1 • GitHub Profile Stats"
-         height="180"
-         loading="lazy"
-         decoding="async" />
-  </a>
-  <a href="https://github.com/P8L1">
-    <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical&hide_border=false"
-         alt="P8L1 • Top Languages"
-         height="180"
-         loading="lazy"
-         decoding="async" />
-  </a>
-</p>
+  <!-- ── Row 2: Single full-width streak card ── -->
+  <p>
+    <a href="https://github.com/P8L1">
+      <img
+        width="860"
+        src="https://streak-stats.demolab.com?user=P8L1&theme=radical&hide_border=false&border_radius=12"
+        alt="P8L1 • Contribution Streak"
+        loading="lazy"
+        decoding="async"
+      />
+    </a>
+  </p>
 
-<!-- Row 2: Streak -->
-<p align="center">
-  <a href="https://github.com/P8L1">
-    <img src="https://streak-stats.demolab.com?user=P8L1&theme=radical&hide_border=false"
-         alt="P8L1 • Contribution Streak"
-         height="190"
-         loading="lazy"
-         decoding="async" />
-  </a>
-</p>
+  <!-- ── Row 3: Activity graph, full width ── -->
+  <p>
+    <a href="https://github.com/P8L1">
+      <img
+        width="860"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=P8L1&theme=github-compact&hide_border=false"
+        alt="P8L1 • Activity Graph"
+        loading="lazy"
+        decoding="async"
+      />
+    </a>
+  </p>
 
-<!-- Row 3: Activity Graph -->
-<p align="center">
-  <a href="https://github.com/P8L1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=P8L1&theme=github-compact&hide_border=false"
-         alt="P8L1 • Activity Graph"
-         width="95%"
-         loading="lazy"
-         decoding="async" />
-  </a>
-</p>
-
-<hr/>
 </div>
 
----
+
+
 
 <p align="center">🚀 Always building. Always improving. Let's create something amazing.</p>
