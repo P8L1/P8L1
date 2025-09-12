@@ -37,51 +37,49 @@
 <div align="center">
 
   <!-- ── Row 1: Stats + Top Languages ── -->
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-          alt="P8L1 • GitHub Profile Stats"
-          height="170"
-          loading="lazy"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical"
-          alt="P8L1 • Top Languages"
-          height="170"
-          loading="lazy"
-        />
-      </td>
-    </tr>
+<hr/>
 
+<!-- Row 1: Stats + Top Languages -->
+<p align="center">
+  <a href="https://github.com/P8L1">
+    <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false"
+         alt="P8L1 • GitHub Profile Stats"
+         height="180"
+         loading="lazy"
+         decoding="async" />
+  </a>
+  <a href="https://github.com/P8L1">
+    <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical&hide_border=false"
+         alt="P8L1 • Top Languages"
+         height="180"
+         loading="lazy"
+         decoding="async" />
+  </a>
+</p>
 
-    <tr>
-      <td colspan="2" align="center">
-        <img
-          src="https://streak-stats.demolab.com?user=P8L1&theme=radical&hide_border=false"
-          alt="P8L1 • Contribution Streak"
-          height="170"
-          loading="lazy"
-        />
-      </td>
-    </tr>
+<!-- Row 2: Streak -->
+<p align="center">
+  <a href="https://github.com/P8L1">
+    <img src="https://streak-stats.demolab.com?user=P8L1&theme=radical&hide_border=false"
+         alt="P8L1 • Contribution Streak"
+         height="190"
+         loading="lazy"
+         decoding="async" />
+  </a>
+</p>
 
+<!-- Row 3: Activity Graph -->
+<p align="center">
+  <a href="https://github.com/P8L1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=P8L1&theme=github-compact&hide_border=false"
+         alt="P8L1 • Activity Graph"
+         width="95%"
+         loading="lazy"
+         decoding="async" />
+  </a>
+</p>
 
-    <tr>
-      <td colspan="2" align="center">
-        <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=P8L1&theme=github-compact"
-          alt="P8L1 • Activity Graph"
-          width="100%"
-          loading="lazy"
-        />
-      </td>
-    </tr>
-  </table>
-
+<hr/>
 </div>
 
 ---
