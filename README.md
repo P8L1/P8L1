@@ -35,8 +35,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P8L1&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P8L1&layout=compact&theme=radical" height="170" />
+  
+  <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P8L1&theme=github-compact" />
+  <img src="https://streak-stats.demolab.com?user=P8L1&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="170" />
 </p>
 
 ---
