@@ -1,22 +1,24 @@
-<h1 align="center">Hey 👋, I'm Pieter-Louis Schoeman</h1>
+<h1 align="center">Pieter-Louis Schoeman</h1>
+
 <p align="center">
-  🤖 Machine Learning | 📱 Flutter & Kotlin | 🌐 Django Backend<br>
-  Turning ideas into full-stack mobile and web solutions.<br>
-  Based in South Africa | Always learning, always building.
+  Software Developer experienced in Rust, Flutter, Kotlin, Django/Python, and TensorFlow.<br>
+  I build scalable full-stack, mobile, backend, and machine learning systems.<br>
+  Based in South Africa.
 </p>
 
 ---
 
-### 🧠 What I Do
+### About Me
 
-- 🤖 Build smart ML systems using **TensorFlow**
-- 📱 Develop cross-platform apps with **Flutter**
-- 🤖 Native Android with **Kotlin**
-- 🌐 Backend APIs and dashboards with **Django**
+I am a software engineer with experience across systems programming, mobile development, backend engineering, and machine learning.
+
+I focus on building reliable, maintainable, and practical software solutions, from mobile applications and backend APIs to ML systems.
 
 ---
 
-### 🧰 Tools & Technologies
+### Core Technologies
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
@@ -24,45 +26,16 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
 ---
 
 ### 📬 Get in Touch
 
 📩 Want to connect or collaborate?  
-👉 [Reach me here](https://x.com/PL198734181) or message me on [Instagram](https://instagram.com/plschoeman/)
+👉 [Reach me here](https://x.com/PL198734181)
 
 
 
 <div align="center">
-
-  <!-- ── Row 1: Two equal-width cards ── -->
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/P8L1">
-          <img
-            width="420"
-            src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api?username=P8L1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false&border_radius=12"
-            alt="P8L1 • GitHub Profile Stats"
-            loading="lazy"
-            decoding="async"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/P8L1">
-          <img
-            width="420"
-            src="https://github-readme-stats-nine-iota-1jj6bwcjno.vercel.app/api/top-langs?username=P8L1&layout=compact&theme=radical&hide_border=false&border_radius=12&langs_count=10&card_width=420"
-            alt="P8L1 • Top Languages"
-            loading="lazy"
-            decoding="async"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
 
   <!-- ── Row 2: Single full-width streak card ── -->
   <p>
