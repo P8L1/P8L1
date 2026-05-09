@@ -1,7 +1,7 @@
 <h1 align="center">Pieter-Louis Schoeman</h1>
 
 <p align="center">
-  Software Developer experienced in Rust, Flutter, Kotlin, Django/Python, and TensorFlow.<br>
+  Software Developer experienced in Rust, Flutter, Kotlin, Django/Python, PostgreSQL, and TensorFlow.<br>
   I build scalable full-stack, mobile, backend, and machine learning systems.<br>
   Based in South Africa.
 </p>
@@ -24,16 +24,16 @@ I focus on building reliable, maintainable, and practical software solutions, fr
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 
-📩 Want to connect or collaborate?  
-👉 [Reach me here](https://x.com/PL198734181)
+ Want to connect or collaborate?  
+ [Reach me here](https://x.com/PL198734181)
 
-
+---
 
 <div align="center">
 
